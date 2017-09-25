@@ -18,5 +18,11 @@
   "bugs": {
     "url": "https://github.com/wiltrahan/mean-stack-app-2/issues"
   },
-  "homepage": "https://github.com/wiltrahan/mean-stack-app-2#readme"
+  "homepage": "https://github.com/wiltrahan/mean-stack-app-2#readme",
+  "dependencies": {
+    "express": "^4.15.5"
+  },
+  "devDependencies": {
+    "mocha": "^3.5.3"
+  }
 }
