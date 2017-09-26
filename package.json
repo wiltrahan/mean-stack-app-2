@@ -22,7 +22,8 @@
   "homepage": "https://github.com/wiltrahan/mean-stack-app-2#readme",
   "dependencies": {
     "body-parser": "^1.18.2",
-    "express": "^4.15.5"
+    "express": "^4.15.5",
+    "mongodb": "^2.2.31"
   },
   "devDependencies": {
     "mocha": "^3.5.3"
