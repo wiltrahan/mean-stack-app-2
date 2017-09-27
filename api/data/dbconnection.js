@@ -5,6 +5,7 @@ var _connection = null;
 
 var open = function() {
   MongoClient.connect(dburl, function(err, db) {
+
     if(err) {
       console.log("DB connection failed");
       return;
